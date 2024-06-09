@@ -1,0 +1,12 @@
+{
+  "name": "deck-digimon",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao Digimon PokeDEX! Este projeto é uma aplicação web desenvolvida com Vue.js que permite buscar e visualizar informações sobre Digimons, utilizando a [API do Digimon](https://digimon-api.vercel.app).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

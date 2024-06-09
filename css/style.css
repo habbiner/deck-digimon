@@ -1,0 +1,56 @@
+body {
+    font-family: "Comic Sans MS";
+    background-color: #f5f5f5;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+li {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: #555555;
+    color: whitesmoke;
+}
+
+.digimon-card {
+    text-align: center;
+}
+
+.digimon-card img {
+    width: 120px;
+    height: 120px;
+}
+
+.in-training {
+    background-color: #ffb3b3;
+}
+
+.rookie {
+    background-color: #ffdb4d;
+}
+
+.champion {
+    background-color: #4dff88;
+}
+
+.ultimate {
+    background-color: #4da6ff;
+}
+
+.mega {
+    background-color: #b3b3ff;
+}
