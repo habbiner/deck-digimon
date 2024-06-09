@@ -18,6 +18,6 @@ Bem-vindo ao Digimon PokeDEX! Este projeto é uma aplicação web desenvolvida c
 - **Digimon API:** API para obter informações detalhadas sobre Digimons.
 - **HTML/CSS:** Estrutura e estilo da aplicação.
 - **Render:** Hospedagem da aplicação.
-- **Acessar site:** https://deck-digimon.onrender.com.
+- **Acessar site:** https://digimon-api-dsm.netlify.app/.
 
 <hr>
